@@ -1,4 +1,4 @@
-# Production-ShopSmart
+# ShopSmart
 
 🛍️Shop➡️Smart🛒 - A fully functional, responsive MERN stack e-commerce web application.
 
